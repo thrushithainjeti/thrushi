@@ -1,1 +1,2 @@
-# thrushi
+# thrushi-demo
+Author- T
